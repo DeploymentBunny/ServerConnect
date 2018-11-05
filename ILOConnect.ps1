@@ -39,6 +39,7 @@ $ListBox1.text                   = "listBox"
 $ListBox1.width                  = 450
 $ListBox1.height                 = 303
 $ListBox1.location               = New-Object System.Drawing.Point(19,24)
+$listBox1.font                   = 'Microsoft Sans Serif,10'
 
 $PictureBox1 = New-Object system.Windows.Forms.PictureBox
 $PictureBox1.width = 150

@@ -1,0 +1,70 @@
+<Settings>
+ <Servers>
+  <Server Name = "SRVHOST101">
+   <IP>NA</IP>
+   <FQDN>SRVHOST101.ilo</FQDN>
+   <UserName>admin</UserName>
+   <Password>password</Password>
+  </Server>
+  <Server Name = "SRVHOST102">
+   <IP>NA</IP>
+   <FQDN>SRVHOST102.ilo</FQDN>
+   <UserName>admin</UserName>
+   <Password>password</Password>
+  </Server>
+  <Server Name = "SRVHOST201">
+   <IP>NA</IP>
+   <FQDN>SRVHOST201.ilo</FQDN>
+   <UserName>admin</UserName>
+   <Password>password</Password>
+  </Server>
+  <Server Name = "SRVHOST202">
+   <IP>NA</IP>
+   <FQDN>SRVHOST202.ilo</FQDN>
+   <UserName>admin</UserName>
+   <Password>password</Password>
+  </Server>
+  <Server Name = "SRVHOST301">
+   <IP>NA</IP>
+   <FQDN>SRVHOST301.ilo</FQDN>
+   <UserName>admin</UserName>
+   <Password>password</Password>
+  </Server>
+  <Server Name = "SRVHOST302">
+   <IP>NA</IP>
+   <FQDN>SRVHOST302.ilo</FQDN>
+   <UserName>admin</UserName>
+   <Password>password</Password>
+  </Server>
+  <Server Name = "SRVHOST303">
+   <IP>NA</IP>
+   <FQDN>SRVHOST303.ilo</FQDN>
+   <UserName>admin</UserName>
+   <Password>password</Password>
+  </Server>
+  <Server Name = "SRVHOST304">
+   <IP>NA</IP>
+   <FQDN>SRVHOST304.ilo</FQDN>
+   <UserName>admin</UserName>
+   <Password>password</Password>
+  </Server>
+  <Server Name = "SRVHOST401">
+   <IP>NA</IP>
+   <FQDN>SRVHOST401.ilo</FQDN>
+   <UserName>admin</UserName>
+   <Password>password</Password>
+  </Server>
+  <Server Name = "SRVHOST801">
+   <IP>NA</IP>
+   <FQDN>SRVHOST801.ilo</FQDN>
+   <UserName>admin</UserName>
+   <Password>password</Password>
+  </Server>
+  <Server Name = "SRVHOST802">
+   <IP>NA</IP>
+   <FQDN>SRVHOST802.ilo</FQDN>
+   <UserName>admin</UserName>
+   <Password>password</Password>
+  </Server>
+ </Servers>
+</Settings>

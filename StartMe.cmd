@@ -1,0 +1,1 @@
+PowerShell.exe -ExecutionPolicy Bypass -windowstyle hidden -File %~dp0\ServerConnect.ps1
